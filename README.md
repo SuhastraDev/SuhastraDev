@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SuhastraDev&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20the%20Future&descAlignY=60&descAlign=50" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&multiline=false&random=false&width=600&lines=👋+Hey+There!+I'm+Suhastra;💻+Full+Stack+Developer;⚡+PHP+%7C+JavaScript+%7C+TypeScript+%7C+C%23;🚀+Building+Cool+Things+Every+Day;✨+Code+%2B+Coffee+%3D+Magic" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Suhastra+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;PHP+%7C+JavaScript+%7C+TypeScript+%7C+C%23;Building+Cool+Things+Every+Day+%F0%9F%9A%80;Code+%2B+Coffee+%3D+Magic+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -106,21 +106,6 @@ const SuhastraDev = {
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuhastraDev/SuhastraDev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SuhastraDev/SuhastraDev/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SuhastraDev/SuhastraDev/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<br/>
-
----
 
 ## 📈 Activity Graph
 
@@ -138,10 +123,12 @@ const SuhastraDev = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-SuhastraDev-181717?style=for-the-badge&logo=github)](https://github.com/SuhastraDev)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourlinkedin)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourinstagram)
+[![GitHub](https://img.shields.io/badge/GitHub-SuhastraDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuhastraDev)
+[![Email](https://img.shields.io/badge/Gmail-indrajayabta414@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indrajayabta414@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Indra%20Jasa%20Suhastra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/indrajasasuhastra)
+[![Instagram](https://img.shields.io/badge/Instagram-@indrajasasuhastra-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/indrajasasuhastra)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281366748782)
+[![Lynk.id](https://img.shields.io/badge/Lynk.id-indrajasasuhastra-FF6B35?style=for-the-badge&logo=linktree&logoColor=white)](https://lynk.id/indrajasasuhastra)
 
 <br/>
 
