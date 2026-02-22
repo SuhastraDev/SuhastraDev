@@ -8,7 +8,7 @@
 
 <br/>
 
-<!-- Visitor Counter (komarev - lebih stabil & reliable) -->
+<!-- Visitor Counter -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=SuhastraDev&color=6E57F7&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/><br/>
@@ -23,16 +23,99 @@
 
 ## 🙋‍♂️ About Me
 
-```typescript
-const SuhastraDev = {
-  role        : "Full Stack Developer",
-  location    : "Indonesia 🇮🇩",
-  focus       : ["Web Development", "UI/UX", "API Design"],
-  currentGoal : "Building scalable & beautiful web applications",
-  funFact     : "I debug with console.log and I'm not ashamed 😄",
-  available   : true // Open for collaboration!
-};
+<img align="right" width="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+Halo! Saya **Indra Jasa Suhastra**, seorang **Full Stack Developer** dari Indonesia 🇮🇩
+
+Saya passionate dalam membangun aplikasi web yang tidak hanya fungsional, tapi juga indah dan mudah digunakan. Saya percaya bahwa kode yang baik adalah kode yang bisa dipahami oleh manusia, bukan hanya mesin.
+
+- 🔭 Saat ini sedang mengerjakan proyek web full stack
+- 🌱 Terus belajar dan berkembang setiap harinya
+- 💬 Tanya saya tentang **PHP, Laravel, JavaScript, React, Vue**
+- ⚡ Fun fact: Saya debug dengan `console.log` dan tidak malu mengakuinya 😄
+- 🤝 Terbuka untuk **kolaborasi & project baru!**
+
+<br clear="right"/>
+
+---
+
+## 🎯 Fun Zone — Klik & Explore!
+
+<details>
+<summary>👤 &nbsp;<b>Siapa Saya Sebenarnya? (Klik untuk buka!)</b></summary>
+<br/>
+
+| | |
+|:---|:---|
+| 👤 **Nama** | Indra Jasa Suhastra |
+| 📍 **Lokasi** | Indonesia 🇮🇩 |
+| 💼 **Role** | Full Stack Developer |
+| 🎯 **Fokus** | Web Development & UI/UX |
+| 🌐 **Bahasa** | PHP, JS, TS, C#, C++ |
+| ☕ **Fuel** | Kopi & Musik |
+| 🕹️ **Hobby** | Coding, Explore teknologi baru |
+| 💌 **Status** | Open for Collaboration! |
+
+</details>
+
+<details>
+<summary>🚀 &nbsp;<b>Apa yang Sedang Saya Pelajari? (Klik untuk buka!)</b></summary>
+<br/>
+
 ```
+📚 Learning Journey 2025:
+├── 🔷 TypeScript Advanced Patterns
+├── ⚛️  React Server Components
+├── 🐘 PHP 8.x Modern Features
+├── 🏗️  System Design & Architecture
+└── ☁️  Cloud Deployment (Docker & CI/CD)
+```
+
+</details>
+
+<details>
+<summary>💡 &nbsp;<b>Filosofi Coding Saya (Klik untuk buka!)</b></summary>
+<br/>
+
+> *"Kode yang baik bukan hanya yang bisa dijalankan mesin, tapi yang bisa dibaca dan dipahami manusia."*
+
+> *"Setiap bug adalah kesempatan untuk belajar hal baru."*
+
+> *"Build something people love — bukan hanya sesuatu yang bekerja."*
+
+</details>
+
+<details>
+<summary>📬 &nbsp;<b>Mau Kolaborasi atau Ada Pertanyaan? (Klik untuk buka!)</b></summary>
+<br/>
+
+Saya selalu senang berdiskusi tentang teknologi, project baru, atau sekadar ngobrol seputar dunia coding! Jangan ragu untuk menghubungi saya 👇
+
+[![Kirim Email](https://img.shields.io/badge/Kirim%20Email-indrajayabta414@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indrajayabta414@gmail.com?subject=Halo%20Indra!%20Mari%20Berkolaborasi)
+[![Chat WhatsApp](https://img.shields.io/badge/Chat%20WhatsApp-Sekarang-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281366748782?text=Halo%20Indra!%20Saya%20lihat%20profil%20GitHub%20kamu%20dan%20ingin%20berkolaborasi.)
+
+</details>
+
+<br/>
+
+---
+
+## 💬 Tanya Saya Tentang
+
+<div align="center">
+
+*Klik badge di bawah untuk langsung kirim email dengan topik yang ingin kamu tanyakan!*
+
+<br/>
+
+[![PHP](https://img.shields.io/badge/Ask%20Me-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](mailto:indrajayabta414@gmail.com?subject=Pertanyaan%20tentang%20PHP)
+[![Laravel](https://img.shields.io/badge/Ask%20Me-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](mailto:indrajayabta414@gmail.com?subject=Pertanyaan%20tentang%20Laravel)
+[![JavaScript](https://img.shields.io/badge/Ask%20Me-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](mailto:indrajayabta414@gmail.com?subject=Pertanyaan%20tentang%20JavaScript)
+[![React](https://img.shields.io/badge/Ask%20Me-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](mailto:indrajayabta414@gmail.com?subject=Pertanyaan%20tentang%20React)
+[![Vue](https://img.shields.io/badge/Ask%20Me-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](mailto:indrajayabta414@gmail.com?subject=Pertanyaan%20tentang%20Vue.js)
+[![TypeScript](https://img.shields.io/badge/Ask%20Me-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](mailto:indrajayabta414@gmail.com?subject=Pertanyaan%20tentang%20TypeScript)
+
+</div>
 
 <br/>
 
@@ -44,22 +127,14 @@ const SuhastraDev = {
 
 ### 💻 Languages
 <!-- ✏️ CARA TAMBAH BAHASA BARU:
-     Cukup copy salah satu baris di bawah & ganti nama, warna, dan logo-nya.
-     Cari nama logo di: https://simpleicons.org
-     Contoh tambah Python:
-     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+     Copy baris di bawah & ganti nama, warna, logo. Cari di: https://simpleicons.org
+     Contoh: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-<!-- Contoh bahasa lain yang bisa kamu tambahkan: -->
-<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
-<!-- ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) -->
-<!-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) -->
-<!-- ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) -->
-<!-- ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white) -->
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -106,7 +181,6 @@ const SuhastraDev = {
 
 ---
 
-
 ## 📈 Activity Graph
 
 <div align="center">
@@ -132,7 +206,7 @@ const SuhastraDev = {
 
 <br/>
 
-**💡 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."**
+**💡 "Kode yang baik bukan hanya yang bisa dijalankan mesin, tapi yang bisa dibaca dan dipahami manusia."**
 
 <br/>
 
