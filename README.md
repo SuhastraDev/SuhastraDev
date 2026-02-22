@@ -1,16 +1,145 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**SuhastraDev/SuhastraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SuhastraDev&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20the%20Future&descAlignY=60&descAlign=50" />
 
-Here are some ideas to get you started:
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&multiline=false&random=false&width=600&lines=👋+Hey+There!+I'm+Suhastra;💻+Full+Stack+Developer;⚡+PHP+%7C+JavaScript+%7C+TypeScript+%7C+C%23;🚀+Building+Cool+Things+Every+Day;✨+Code+%2B+Coffee+%3D+Magic" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<!-- Visitor Counter -->
+<img src="https://profile-counter.glitch.me/SuhastraDev/count.svg" alt="Visitor Count" />
+
+<br/><br/>
+
+<!-- Social Badges -->
+[![GitHub followers](https://img.shields.io/github/followers/SuhastraDev?label=Followers&style=for-the-badge&logo=github&color=6E57F7)](https://github.com/SuhastraDev)
+[![GitHub stars](https://img.shields.io/github/stars/SuhastraDev?label=Stars&style=for-the-badge&logo=github&color=F7B731)](https://github.com/SuhastraDev)
+
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+```typescript
+const SuhastraDev = {
+  role        : "Full Stack Developer",
+  location    : "Indonesia 🇮🇩",
+  focus       : ["Web Development", "UI/UX", "API Design"],
+  currentGoal : "Building scalable & beautiful web applications",
+  funFact     : "I debug with console.log and I'm not ashamed 😄",
+  available   : true // Open for collaboration!
+};
+```
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 🔧 Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SuhastraDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SuhastraDev&theme=tokyonight&hide_border=true&background=0D1117&ring=6E57F7&fire=F7B731&currStreakLabel=6E57F7" />
+
+<br/>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhastraDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=ffffff&langs_count=8" />
+
+</div>
+
+<br/>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuhastraDev/SuhastraDev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SuhastraDev/SuhastraDev/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SuhastraDev/SuhastraDev/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Suhastra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuhastraDev&bg_color=0D1117&color=6E57F7&line=6E57F7&point=F7B731&area=true&hide_border=true)](https://github.com/SuhastraDev)
+
+</div>
+
+<br/>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-SuhastraDev-181717?style=for-the-badge&logo=github)](https://github.com/SuhastraDev)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourlinkedin)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourinstagram)
+
+<br/>
+
+**💡 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."**
+
+<br/>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+</div>
