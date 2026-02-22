@@ -4,14 +4,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SuhastraDev&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20the%20Future&descAlignY=60&descAlign=50" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&multiline=false&random=false&width=600&lines=👋+Hey+There!+I'm+Suhastra;💻+Full+Stack+Developer;⚡+PHP+%7C+JavaScript+%7C+TypeScript+%7C+C%23;🚀+Building+Cool+Things+Every+Day;✨+Code+%2B+Coffee+%3D+Magic" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&multiline=false&random=false&width=600&lines=👋+Hey+There!+I'm+Suhastra;💻+Full+Stack+Developer;⚡+PHP+%7C+JavaScript+%7C+TypeScript+%7C+C%23;🚀+Building+Cool+Things+Every+Day;✨+Code+%2B+Coffee+%3D+Magic" alt="Typing SVG" />
 
 <br/>
 
-<!-- Visitor Counter -->
-<img src="https://profile-counter.glitch.me/SuhastraDev/count.svg" alt="Visitor Count" />
+<!-- Visitor Counter (komarev - lebih stabil & reliable) -->
+![Visitor Count](https://komarev.com/ghpvc/?username=SuhastraDev&color=6E57F7&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/><br/>
 
@@ -45,11 +43,23 @@ const SuhastraDev = {
 <div align="center">
 
 ### 💻 Languages
+<!-- ✏️ CARA TAMBAH BAHASA BARU:
+     Cukup copy salah satu baris di bawah & ganti nama, warna, dan logo-nya.
+     Cari nama logo di: https://simpleicons.org
+     Contoh tambah Python:
+     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+-->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<!-- Contoh bahasa lain yang bisa kamu tambahkan: -->
+<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
+<!-- ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) -->
+<!-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) -->
+<!-- ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) -->
+<!-- ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white) -->
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -84,7 +94,7 @@ const SuhastraDev = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SuhastraDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SuhastraDev&theme=tokyonight&hide_border=true&background=0D1117&ring=6E57F7&fire=F7B731&currStreakLabel=6E57F7" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=SuhastraDev&theme=tokyonight&hide_border=true&background=0D1117&ring=6E57F7&fire=F7B731&currStreakLabel=6E57F7" />
 
 <br/>
 
