@@ -168,12 +168,12 @@ Saya selalu senang berdiskusi tentang teknologi, project baru, atau sekadar ngob
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SuhastraDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=ffffff" />
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SuhastraDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=ffffff&cache_seconds=1800" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=SuhastraDev&theme=tokyonight&hide_border=true&background=0D1117&ring=6E57F7&fire=F7B731&currStreakLabel=6E57F7" />
 
 <br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhastraDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=ffffff&langs_count=8" />
+<img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SuhastraDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=ffffff&langs_count=8&cache_seconds=1800" />
 
 </div>
 
