@@ -1,320 +1,402 @@
 <div align="center">
 
-# Indra Jasa Suhastra
 
-### Full-Stack Web and Mobile Developer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:1E3A8A,70:6D28D9,100:9333EA&height=230&section=header&text=Indra%20Jasa%20Suhastra&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Web%20and%20Mobile%20Developer&descSize=18&descAlignY=58&animation=fadeIn" />
 
-Building practical web and mobile applications for real business and institutional workflows.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=850&lines=Building+real+operational+systems%2C+not+just+interfaces.;Laravel+%E2%80%A2+Flask+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Flutter;Database-driven+apps+%E2%80%A2+REST+APIs+%E2%80%A2+VPS+Deployment;Asset+Management+%E2%80%A2+POS%2FHRIS+%E2%80%A2+Mobile+Marketplace" alt="Typing animation" />
 
-<br>
+<br/><br/>
 
-<a href="https://github.com/SuhastraDev">GitHub</a>
- ·  <a href="https://linkedin.com/in/indrajasasuhastra">LinkedIn</a>
- ·  <a href="mailto:indrajayabta414@gmail.com">Email</a>
+<a href="https://github.com/SuhastraDev">
+  <img src="https://img.shields.io/badge/GitHub-SuhastraDev-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/indrajasasuhastra">
+  <img src="https://img.shields.io/badge/LinkedIn-Indra%20Jasa%20Suhastra-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:indrajayabta414@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<br><br>
+<br/><br/>
 
-<kbd>Laravel</kbd> <kbd>Flask</kbd> <kbd>React</kbd> <kbd>Next.js</kbd> <kbd>Node.js</kbd> <kbd>Flutter</kbd> <kbd>MySQL</kbd> <kbd>PostgreSQL</kbd> <kbd>Linux VPS</kbd>
+<img src="https://komarev.com/ghpvc/?username=SuhastraDev&style=flat-square&color=6366F1&label=Profile+Views" />
 
 </div>
 
-<br>
-
 ---
-
-## Profile
-
-I am a **Full-Stack Web and Mobile Developer** focused on building database-driven applications for real operational needs.
-
-My work covers web applications, mobile applications, backend systems, admin dashboards, reporting workflows, REST API integration, role-based access, and deployment preparation.
-
-I have built systems for asset management, POS and HRIS, document archiving, internship registration, tailoring order management, and mobile marketplace workflows.
-
-<br>
-
-> I build systems that help people manage real operations, not only interfaces that look good.
-
-<br>
-
----
-
-## Professional Focus
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="55%" valign="top">
 
-### Web Applications
+## About Me
 
-Laravel, Flask, Node.js, React, Next.js, Vue, Tailwind CSS, Bootstrap.
+I’m **Indra Jasa Suhastra**, a **Full-Stack Web & Mobile Developer** from Indonesia.
 
-Focused on structured web applications with dashboards, forms, authentication, and reporting features.
+I build **database-driven applications** for real operational workflows, including asset management, POS/HRIS, document archiving, internship registration, tailoring order systems, and mobile marketplace features.
 
-</td>
-<td width="33%" valign="top">
-
-### Mobile Applications
-
-Flutter Android applications connected to backend REST APIs.
-
-Focused on authentication flows, project details, job workflows, and mobile-first user experience.
+My focus is not only creating clean interfaces, but also building systems that are structured, usable, maintainable, and ready to support real business processes.
 
 </td>
-<td width="33%" valign="top">
+<td width="45%" valign="top">
 
-### Operational Systems
-
-Business and institutional workflow systems.
-
-Focused on role-based access, approval flows, PDF and Excel export, QR code, notifications, and database-driven processes.
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-## Selected Work
-
-### Kaffe POS and HRIS
-
-A full-stack mini ERP for cafe operations, combining POS, HRIS, payroll, attendance, inventory, QRIS payment, and analytics dashboard.
-
-**Main workflow**
-
-* Cashier and admin role-based access
-* Attendance-based POS access
-* Live payroll and salary monitoring
-* Inventory and stock management
-* QRIS payment integration
-* Sales report and dashboard analytics
-
-**Tech stack**
-
-<kbd>React</kbd> <kbd>Node.js</kbd> <kbd>Express.js</kbd> <kbd>PostgreSQL</kbd> <kbd>JWT</kbd> <kbd>Xendit</kbd>
-
-**Repository**
-
-<a href="https://github.com/SuhastraDev/kaffe-pos-erp">github.com/SuhastraDev/kaffe-pos-erp</a>
-
-<br>
-
----
-
-### SIMASET — Hospital Asset Management System
-
-A Flask-based asset management system for RSKGM Palembang, designed to manage hospital assets, evaluate asset risk using FMEA, handle approval workflows, generate QR-coded asset identity cards, and export reports.
-
-**Main workflow**
-
-* Hospital asset recording and monitoring
-* FMEA risk evaluation
-* RPN risk category
-* Approval workflow for asset status changes
-* QR code and KIR PDF generation
-* Excel and PDF report export
-* Role-based access for Super Admin, Admin Divisi, and Admin Ruangan
-
-**Tech stack**
-
-<kbd>Python</kbd> <kbd>Flask</kbd> <kbd>SQLAlchemy</kbd> <kbd>MySQL</kbd> <kbd>Flask-Login</kbd> <kbd>Bootstrap</kbd> <kbd>WeasyPrint</kbd> <kbd>OpenPyXL</kbd> <kbd>Gunicorn</kbd>
-
-**Repository**
-
-<a href="https://github.com/SuhastraDev/pencatatan-aset-fmea">github.com/SuhastraDev/pencatatan-aset-fmea</a>
-
-<br>
-
----
-
-### Industmesh Mobile App
-
-An Android mobile application built with Flutter and connected to backend REST APIs for marketplace-style project and job workflows.
-
-**Main workflow**
-
-* Flutter Android interface
-* Authentication flow
-* Project detail screen
-* Job detail screen
-* Apply job feature
-* Repository-based API integration
-
-**Tech stack**
-
-<kbd>Flutter</kbd> <kbd>Dart</kbd> <kbd>REST API</kbd> <kbd>Authentication</kbd> <kbd>Mobile UI</kbd>
-
-<br>
-
----
-
-### ZRINTTAILOR — Tailoring Order Management System
-
-A Laravel-based tailoring service platform for custom clothing orders, tracking, customer-admin communication, payment verification, and AI-assisted measurement validation.
-
-**Main workflow**
-
-* Custom clothing order management
-* Customer and admin dashboards
-* Order status tracking
-* Chat between customer and admin
-* Google OAuth login
-* WhatsApp notification
-* Payment proof verification
-* AI-assisted measurement validation concept
-
-**Tech stack**
-
-<kbd>Laravel</kbd> <kbd>PHP</kbd> <kbd>MySQL</kbd> <kbd>Blade</kbd> <kbd>Alpine.js</kbd> <kbd>Tailwind CSS</kbd> <kbd>Google OAuth</kbd> <kbd>Fonnte API</kbd> <kbd>Gemini Vision</kbd>
-
-**Repository**
-
-<a href="https://github.com/SuhastraDev/Jasa-Jahit-Website">github.com/SuhastraDev/Jasa-Jahit-Website</a>
-
-<br>
-
----
-
-<details>
-<summary><b>More Projects</b></summary>
-
-<br>
-
-### Internship Registration System
-
-A Laravel-based internship registration system with online registration, document upload, applicant review, email notification, PDF generation, and CSV export.
-
-**Tech stack**
-
-<kbd>Laravel</kbd> <kbd>PHP</kbd> <kbd>MySQL</kbd> <kbd>Tailwind CSS</kbd> <kbd>DomPDF</kbd> <kbd>Mailtrap</kbd>
-
-**Repository**
-
-<a href="https://github.com/SuhastraDev/Website-Pendaftaran-Magang">github.com/SuhastraDev/Website-Pendaftaran-Magang</a>
-
-<br>
-
-### Document Archive System
-
-A Laravel-based document archive system for managing incoming and outgoing letters with role-based access and user-specific document visibility.
-
-**Tech stack**
-
-<kbd>Laravel</kbd> <kbd>PHP</kbd> <kbd>MySQL</kbd> <kbd>Blade</kbd> <kbd>Tailwind CSS</kbd>
-
-**Repository**
-
-<a href="https://github.com/SuhastraDev/Website-Arsip-Surat">github.com/SuhastraDev/Website-Arsip-Surat</a>
-
-</details>
-
-<br>
-
----
-
-## Technology Stack
-
-<table>
-<tr>
-<td width="25%" valign="top">
-
-### Backend
-
-<kbd>Laravel</kbd> <kbd>Flask</kbd> <kbd>Node.js</kbd> <kbd>Express.js</kbd> <kbd>PHP</kbd> <kbd>Python</kbd>
-
-</td>
-<td width="25%" valign="top">
-
-### Frontend
-
-<kbd>React</kbd> <kbd>Next.js</kbd> <kbd>Vue</kbd> <kbd>Blade</kbd> <kbd>Tailwind CSS</kbd> <kbd>Bootstrap</kbd>
-
-</td>
-<td width="25%" valign="top">
-
-### Mobile and Database
-
-<kbd>Flutter</kbd> <kbd>Dart</kbd> <kbd>MySQL</kbd> <kbd>PostgreSQL</kbd> <kbd>MongoDB</kbd>
-
-</td>
-<td width="25%" valign="top">
-
-### Tools and Deployment
-
-<kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>Linux VPS</kbd> <kbd>Nginx</kbd> <kbd>SSL</kbd> <kbd>Postman</kbd>
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-## Current Direction
+## Developer Profile
 
 ```txt
-Now focusing on:
-- Building polished full-stack applications
-- Improving Flutter Android implementation
-- Integrating mobile apps with REST APIs
-- Strengthening database-driven workflow systems
-- Preparing projects for deployment and real users
+Role      : Full-Stack Web & Mobile Developer
+Focus     : Operational Systems
+Backend   : Laravel, Flask, Node.js
+Frontend  : React, Next.js, Vue, Tailwind
+Mobile    : Flutter, Dart
+Database  : MySQL, PostgreSQL, MongoDB
+Deploy    : Linux VPS, Nginx, SSL, CI/CD
 ```
-
-<br>
-
----
-
-## Working Style
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### How I Build
-
-* Understand the workflow first
-* Design database structure carefully
-* Build backend logic and API flow
-* Create clean and usable interfaces
-* Test core user flows
-* Prepare for deployment and maintenance
-
-</td>
-<td width="50%" valign="top">
-
-### What I Care About
-
-* Clear system structure
-* Maintainable code
-* Practical user experience
-* Secure authentication and access control
-* Reliable data handling
-* Useful features for real users
 
 </td>
 </tr>
 </table>
 
-<br>
-
 ---
-
-## Connect
-
-I am open to collaboration, freelance projects, internships, and full-time opportunities.
-
-<a href="https://github.com/SuhastraDev">GitHub</a>
- ·  <a href="https://linkedin.com/in/indrajasasuhastra">LinkedIn</a>
- ·  <a href="mailto:indrajayabta414@gmail.com">Email</a>
-
-<br><br>
 
 <div align="center">
 
-**Clean interfaces are good. Useful systems are better.**
+## What I Build
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/Business-Workflow%20Systems-1E3A8A?style=for-the-badge" />
+  <br/><br/>
+  POS, HRIS, asset management, document workflow, order tracking, reporting systems.
+</td>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/API-Mobile%20Integration-6D28D9?style=for-the-badge" />
+  <br/><br/>
+  REST API integration, authentication flows, project/job details, Flutter Android screens.
+</td>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/Production-Deployment-0F766E?style=for-the-badge" />
+  <br/><br/>
+  Linux VPS deployment, Nginx reverse proxy, SSL setup, and GitHub-based workflow.
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## Featured Projects
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:6D28D9&height=3&section=header" />
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Kaffe POS & HRIS — Mini ERP
+
+A full-stack cafe management system combining **POS**, **HRIS**, **payroll**, **attendance**, **inventory**, **QRIS payment**, and reporting dashboard.
+
+**Key Features**
+
+* Smart POS with attendance-based access
+* Real-time payroll and live salary monitor
+* Inventory and stock management
+* QRIS payment with Xendit
+* Admin/Cashier role-based access
+
+**Stack**
+
+<img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=22C55E" />
+<img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/Xendit-0F172A?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
+
+### SIMASET — Hospital Asset Management
+
+A Flask-based asset management system for **RSKGM Palembang**, built to manage hospital assets, risk evaluation, approval workflow, QR-coded asset identity, and report export.
+
+**Key Features**
+
+* Hospital asset monitoring
+* FMEA risk evaluation
+* Automatic RPN category
+* Approval workflow
+* QR code and KIR PDF
+* Excel/PDF reports
+
+**Stack**
+
+<img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/Flask-0F172A?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/SQLAlchemy-0F172A?style=flat-square" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Flutter Mobile App — Industmesh Mobile
+
+An Android mobile application built with **Flutter** and connected to backend APIs for marketplace-style workflows.
+
+**Key Features**
+
+* Flutter Android UI
+* Authentication flow
+* Project and job detail screens
+* Apply job feature
+* REST API repository structure
+* Backend integration
+
+**Stack**
+
+<img src="https://img.shields.io/badge/Flutter-0F172A?style=flat-square&logo=flutter&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Dart-0F172A?style=flat-square&logo=dart&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/REST%20API-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/Mobile%20Auth-0F172A?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
+
+### ZRINTTAILOR — Tailoring Order System
+
+A tailoring service platform for custom clothing orders, order tracking, customer-admin communication, payment verification, and AI-assisted measurement validation.
+
+**Key Features**
+
+* Custom clothing order flow
+* Admin/customer dashboard
+* Chat and order tracking
+* Google OAuth login
+* WhatsApp notification
+* AI/CV-assisted measurement concept
+
+**Stack**
+
+<img src="https://img.shields.io/badge/Laravel-0F172A?style=flat-square&logo=laravel&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Gemini%20Vision-0F172A?style=flat-square" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Sistem Pendaftaran Magang
+
+A Laravel-based internship registration system with online registration, document upload, applicant review, email notification, PDF generation, and CSV export.
+
+**Key Features**
+
+* Participant registration
+* Admin review dashboard
+* Document upload and preview
+* Email notifications
+* Acceptance letter PDF
+* CSV export
+
+**Stack**
+
+<img src="https://img.shields.io/badge/Laravel-0F172A?style=flat-square&logo=laravel&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/PHP-0F172A?style=flat-square&logo=php&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/DomPDF-0F172A?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
+
+### Website Arsip Surat
+
+A document archive system for managing incoming and outgoing letters with role-based access and user-specific document visibility.
+
+**Key Features**
+
+* Incoming/outgoing letter management
+* Admin and staff roles
+* Document upload
+* User-specific access
+* Dashboard summary
+* Document workflow
+
+**Stack**
+
+<img src="https://img.shields.io/badge/Laravel-0F172A?style=flat-square&logo=laravel&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/Blade-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=60A5FA" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## Tech Stack
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:2563EB&height=3&section=header" />
+
+</div>
+
+<div align="center">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=laravel,flask,nodejs,express,php,python" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,html,css,js,ts" />
+
+### Mobile
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+### Tools and Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,nginx,docker,postman,vscode" />
+
+</div>
+
+---
+
+<div align="center">
+
+## Current Focus
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Technical Development
+
+```txt
+Currently improving:
+- Flutter Android development
+- REST API integration
+- Full-stack architecture
+- Database design
+- Deployment workflow
+- AI-assisted practical features
+```
+
+</td>
+<td width="50%" valign="top">
+
+### Opportunity Focus
+
+```txt
+Open for:
+- Full-stack developer roles
+- Web developer opportunities
+- Mobile app projects
+- Freelance collaboration
+- Internship opportunities
+- Real-world system development
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## Academic and Research
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Academic Work
+
+* Published academic work related to technology-assisted learning and operating system education.
+* Interested in practical research implementation for education, workflow systems, and intelligent applications.
+
+</td>
+<td width="50%" valign="top">
+
+### Practical Interests
+
+* Operational web systems
+* Mobile application development
+* REST API implementation
+* Database-driven applications
+* Deployment and system maintenance
+* AI-assisted features for real-world applications
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## GitHub Snapshot
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SuhastraDev&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F97316&currStreakLabel=60A5FA" />
+
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SuhastraDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=818CF8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhastraDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA" />
+
+<br/><br/>
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=SuhastraDev&bg_color=0D1117&color=60A5FA&line=818CF8&point=F97316&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## Connect
+
+I’m open to collaboration, freelance projects, internships, and full-time opportunities.
+
+<br/>
+
+<a href="https://github.com/SuhastraDev">
+  <img src="https://img.shields.io/badge/GitHub-SuhastraDev-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/indrajasasuhastra">
+  <img src="https://img.shields.io/badge/LinkedIn-Indra%20Jasa%20Suhastra-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:indrajayabta414@gmail.com">
+  <img src="https://img.shields.io/badge/Email-indrajayabta414%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=818CF8&center=true&vCenter=true&width=850&lines=I+build+systems+that+help+people+manage+real+operations.;Clean+interfaces+are+good.+Useful+systems+are+better." alt="Closing typing animation" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:1E3A8A,100:020617&height=130&section=footer" />
 
 </div>
