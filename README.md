@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:1E3A8A,70:6D28D9,100:9333EA&height=230&section=header&text=Indra%20Jasa%20Suhastra&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descSize=18&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:1E3A8A,70:6D28D9,100:9333EA&height=230&section=header&text=Indra%20Jasa%20Suhastra&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Web%20and%20Mobile%20Developer&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=850&lines=Building+real+operational+systems%2C+not+just+interfaces.;Laravel+%E2%80%A2+Flask+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Flutter;Database-driven+apps+%E2%80%A2+REST+APIs+%E2%80%A2+VPS+Deployment;Asset+Management+%E2%80%A2+POS%2FHRIS+%E2%80%A2+Mobile+Marketplace" alt="Typing animation" />
 
